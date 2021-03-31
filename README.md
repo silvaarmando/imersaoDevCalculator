@@ -25,3 +25,22 @@
   CLASS TWO - Calculator and Conditional Loops in JavaScript
 </h2>
 
+<br
+/>
+<h1
+  align="center"
+>
+  <img
+    width="68%"
+    src=""
+  >
+</h1>
+
+<h3
+  align="center"
+>
+Access my code at CodePen by clicking <a src="https://codepen.io/franciscoarmando63/pen/ExZNZyw?editors=0010" target="_blank">here</a>
+</h3>
+<br
+/>
+
